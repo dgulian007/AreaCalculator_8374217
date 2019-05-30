@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Arera_Calculator
-{
+namespace Area_Calculator
+{ 
     public class Rectangle
     {
         private int length, width;
@@ -16,7 +16,7 @@ namespace Arera_Calculator
             width = 1;
         }
 
-        public Rectangle(int length, int width) // Non-default constructor
+        public Rectangle(int length, int width) // Parameterised constructor
         {
             this.length = length;
             this.width = width;
@@ -24,12 +24,6 @@ namespace Arera_Calculator
 
         public int GetLength()
         {
-            return length;
-        }
-
-        public int SetLength(int length)
-        {
-            this.length = length;
             return length;
         }
 
@@ -44,14 +38,20 @@ namespace Arera_Calculator
             return width;
         }
 
+        public int SetLength(int length)
+        {
+            this.length = length;
+            return length;
+        }
+
         public int GetPerimeter()
         {
-            return 2 * (length + width); // Return perimeter
+            return 2 * (length + width);
         }
 
         public int GetArea()
         {
-            return (length * width); // Return Area
+            return (length * width);
         }
     }
 }

@@ -1,0 +1,7 @@
+G:\2nd Semester\QA Assignments\Rectangle_Area_Calculator\Arera_Calculator\Arera_Calculator\bin\Debug\Arera_Calculator.exe.config
+G:\2nd Semester\QA Assignments\Rectangle_Area_Calculator\Arera_Calculator\Arera_Calculator\bin\Debug\Arera_Calculator.exe
+G:\2nd Semester\QA Assignments\Rectangle_Area_Calculator\Arera_Calculator\Arera_Calculator\bin\Debug\Arera_Calculator.pdb
+G:\2nd Semester\QA Assignments\Rectangle_Area_Calculator\Arera_Calculator\Arera_Calculator\obj\Debug\Arera_Calculator.csprojAssemblyReference.cache
+G:\2nd Semester\QA Assignments\Rectangle_Area_Calculator\Arera_Calculator\Arera_Calculator\obj\Debug\Arera_Calculator.csproj.CoreCompileInputs.cache
+G:\2nd Semester\QA Assignments\Rectangle_Area_Calculator\Arera_Calculator\Arera_Calculator\obj\Debug\Arera_Calculator.exe
+G:\2nd Semester\QA Assignments\Rectangle_Area_Calculator\Arera_Calculator\Arera_Calculator\obj\Debug\Arera_Calculator.pdb
